@@ -23,5 +23,6 @@ Before grad school I spent ~7 years as a software developer at **Fiserv**, build
 
 ## 🛠️ Tech
 **ML:** PyTorch · Hugging Face · RL for LLMs (GRPO) · Python
+
 **Engineering:** Java · Spring Boot / Spring Cloud · microservices · React · cloud systems
 
