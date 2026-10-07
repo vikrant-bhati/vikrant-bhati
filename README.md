@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Vikrant 👋
 
-<!--
-**vikrant-bhati/vikrant-bhati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduate student at **Virginia Tech** researching **AI Reliability and Alignment**: how LLMs and AI agents reason, and how they fail.
+Before grad school I spent ~7 years as a software developer at **Fiserv**, building merchant products and large-scale cloud systems.
 
-Here are some ideas to get you started:
+🌐 [Portfolio](https://vikrant-bhati.github.io/profile/) · 
+💼 [LinkedIn](https://www.linkedin.com/in/vikrantbhati/) · 
+✍️ [Medium](https://medium.com/@vikrant_bhati) · 
+📄 [Resume](https://vikrant-bhati.github.io/Resume/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Current focus
+- **TwoWorlds**: a benchmark for understanding how AI agents fail on scientific reasoning tasks
+- **Underspecified math reasoning**: training methods for LLMs working on incomplete optimization problems
+
+## 🚀 Featured projects
+| Project | What it is |
+|---|---|
+| [qwen-grpo](https://github.com/vikrant-bhati/qwen-grpo) | Reinforcement learning (GRPO) on Qwen2.5-3B for medical reasoning · [report](https://vikrant-bhati.github.io/profile/cs5624-final-project.pdf) |
+| [llm-from-scratch](https://github.com/vikrant-bhati/llm-from-scratch) | Building large language models from first principles |
+| [Deep-learning](https://github.com/vikrant-bhati/Deep-learning) | Vision, sequence models and CNN benchmarking experiments · [site](https://vikrant-bhati.github.io/Deep-learning/) |
+| [Loblaw_Bio_Drug_Development](https://github.com/vikrant-bhati/Loblaw_Bio_Drug_Development) | Clinical-trial immune-cell analysis with statistical testing and an interactive dashboard |
+| [asphalt_reimagined](https://github.com/vikrant-bhati/asphalt_reimagined) | Playing a racing game with hand gestures · [demo](https://youtu.be/jf9etWVmbEA) |
+
+## 🛠️ Tech
+**ML:** PyTorch · Hugging Face · RL for LLMs (GRPO) · Python
+**Engineering:** Java · Spring Boot / Spring Cloud · microservices · React · cloud systems
+
