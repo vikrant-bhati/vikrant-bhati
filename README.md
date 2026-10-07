@@ -15,7 +15,7 @@ Before grad school I spent ~7 years as a software developer at **Fiserv**, build
 ## 🚀 Featured projects
 | Project | What it is |
 |---|---|
-| [qwen-grpo](https://github.com/vikrant-bhati/qwen-grpo) | Reinforcement learning (GRPO) on Qwen2.5-3B for medical reasoning · [report](https://vikrant-bhati.github.io/profile/cs5624-final-project.pdf) |
+| [Training Qwen with GRPO](https://vikrant-bhati.github.io/profile/cs5624-final-project.pdf) | Team project: reinforcement learning for medical reasoning with Qwen2.5-3B (course report) |
 | [llm-from-scratch](https://github.com/vikrant-bhati/llm-from-scratch) | Building large language models from first principles |
 | [Deep-learning](https://github.com/vikrant-bhati/Deep-learning) | Vision, sequence models and CNN benchmarking experiments · [site](https://vikrant-bhati.github.io/Deep-learning/) |
 | [Loblaw_Bio_Drug_Development](https://github.com/vikrant-bhati/Loblaw_Bio_Drug_Development) | Clinical-trial immune-cell analysis with statistical testing and an interactive dashboard |
